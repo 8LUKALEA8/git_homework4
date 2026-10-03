@@ -3,3 +3,4 @@
 "hi"
 "Formuola"
 "homework"
+"training"

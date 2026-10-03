@@ -4,3 +4,4 @@
 "Formuola"
 "homework"
 "training"
+"study"
